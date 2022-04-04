@@ -2,7 +2,7 @@
 "GuideData": {
                   "AdsController":
                    {
-                      "NetworkAds": "admob",
+                      "NetworkAds": "facebook",
                       
                        "gameIdUnity": "3090796",
                         "bannerUnity": "banner",
