@@ -1,0 +1,29 @@
+{
+"GuideData": {
+                  "AdsController":
+                   {
+                      "NetworkAds": "admob",
+                      
+                       "gameIdUnity": "3090796",
+                        "bannerUnity": "banner",
+                        "interstitialUnity": "video",
+                      
+                      "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+                      "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+                      "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+                      
+                      "Bannerfacebook": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+                      "Interstitialfacebook": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+                      "Nativefacebook": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+                      
+                      
+                        
+                         
+                      "ImageBanner": "false",
+                      "ImageBannerImg": "http://marketingmag.ca/wp-content/uploads/2015/05/LocalAttacks_Page_2.jpeg",
+                      "ImageBannerUrl": "https://www.google.com/",
+                      
+                   }
+  }
+
+}
